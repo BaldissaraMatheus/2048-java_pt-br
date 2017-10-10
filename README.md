@@ -1,3 +1,3 @@
 # 2048 desenvolvido em Java
 
-Projeto foi desenvolvido como trabalho escolar para o curso técnico de informática da FAETEC
+![Screenshot](https://github.com/BaldissaraMatheus/2048-java_pt-br/blob/master/screenshot.png)
