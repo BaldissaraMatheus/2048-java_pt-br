@@ -1,3 +1,3 @@
 # 2048 desenvolvido em Java
 
-![Screenshot](https://postimg.org/image/8eitlzffzv/)
+![Screenshot](https://s1.postimg.org/4rd9ygjni7/screenshot.png)
